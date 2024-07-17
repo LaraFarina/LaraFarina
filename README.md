@@ -1,15 +1,15 @@
-<h2>Lara <img src="https://www.fg-a.com/flags/argentina-flag-animated.gif" width="25"></h2>
-<p>CEO de Señalito </p>
-[![Linkedin](https://img.shields.io/badge/Linkedin?style=social&logo=https%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Flogotypes%2F32%2Fcircle-linkedin-512.png&logoColor=fff&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flara-farina-997b1828a%2F)](https://www.linkedin.com/in/lara-farina-997b1828a/)
-
-### Knowledge
-* Programming Languages
-
-> ![C#](https://img.shields.io/badge/C#?color=%8503bb) ![React](https://img.shields.io/badge/React?color=%23a4fff7) ![React Native](https://img.shields.io/badge/React-Native?color=%23a4fff7) ![NodeJS](https://img.shields.io/badge/NodeJS?color=%04ab77)
-
-* Other skills
-
-> ![CSS](https://img.shields.io/badge/CSS?color=%2903bb) ![Figma](https://img.shields.io/badge/Figma?color=%bb0339) ![Photoshop](https://img.shields.io/badge/Photoshop?color=%2903bb) ![Illustrator](https://img.shields.io/badge/Illustrator?color=%d5d900) ![SQL](https://img.shields.io/badge/SQL?color=%d97c00)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LaraFarina&show_icons=true&theme=transparent)
+<p>Welcome to my page! </br> I'm Lara, Fullstack developer and UX/UI Designer from <img src="https://www.flaticon.com/free-icon/world_16021893?term=argentina&page=1&position=17&origin=search&related_id=16021893" width="13"/> <b>Buenos Aires, Argentina</b></p>
+<h3>Things I code with</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+
